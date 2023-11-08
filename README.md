@@ -1,5 +1,22 @@
-# Jovem Programador - Exercício de Criação de API em C#
-Este Readme documenta um exercício realizado no curso Jovem Programador, no qual foi desenvolvida uma API em C# utilizando o framework ASP.NET Core. A estrutura da API inclui pastas, controladores, um banco de dados, mapeamentos e a utilização do Swagger. O exercício abrange os seguintes aspectos:
+# Projeto do Senac Jovem Programador
+Este projeto foi desenvolvido como parte do curso Jovem Programador do Senac, uma iniciativa que visa capacitar jovens programadores nas melhores práticas de desenvolvimento de software. O projeto se concentra na criação de uma API em C# usando o framework ASP.NET Core.
+
+## Objetivo do Projeto
+O objetivo principal deste projeto é proporcionar aos participantes do curso uma experiência prática na construção de uma API funcional. A API desenvolvida neste exercício permite o acesso e a manipulação de dados relacionados a alunos e usuários, demonstrando os princípios de criação de endpoints HTTP, persistência de dados em um banco de dados e documentação de API.
+
+## Aprendizado
+Ao trabalhar neste projeto, os participantes do curso podem adquirir conhecimentos e habilidades valiosos, incluindo:
+
+- Desenvolvimento de API em C# usando ASP.NET Core.
+- Estruturação de uma aplicação com pastas organizadas para manter a modularidade e a manutenibilidade do código.
+- Utilização de um banco de dados com o Entity Framework Core.
+- Implementação de operações CRUD (Criar, Ler, Atualizar, Excluir) em uma API.
+- Utilização de enums para representar estados ou categorias.
+- Implementação de documentação de API com o Swagger.
+- Entendimento de boas práticas de desenvolvimento de software.
+
+
+O projeto do Senac Jovem Programador proporciona uma oportunidade prática de desenvolver habilidades relevantes para o mercado de trabalho e é um passo importante para a construção de uma carreira em desenvolvimento de software.
 
 ### Estrutura do Projeto
 A estrutura do projeto consiste nas seguintes pastas:
@@ -47,3 +64,4 @@ O Swagger é uma ferramenta que auxilia na documentação e teste de APIs. Neste
 ## Conclusão
 Este exercício de criação de uma API em C# demonstra a importância e a utilidade das APIs no desenvolvimento de aplicativos. Além disso, enfatiza a necessidade de documentar e fornecer ferramentas como o Swagger para simplificar a integração e o uso da API. As APIs desempenham um papel fundamental na construção de aplicativos modernos, promovendo a reutilização de recursos, a integração com outros sistemas e a manutenção de uma arquitetura modular e escalável. Este exercício é um ponto de partida valioso para entender como criar, documentar e usar APIs em seus próprios projetos.
  
+![imagem da logo jovem programador](https://www.jovemprogramador.com.br/images/jovem_social.jpg)
