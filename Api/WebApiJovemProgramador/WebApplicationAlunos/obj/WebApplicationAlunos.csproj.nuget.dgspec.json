@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fran\\Desktop\\ApiFrancine\\WebApplicationAlunos\\WebApplicationAlunos.csproj": {}
+    "C:\\Users\\Fran\\Desktop\\WebApiJovemProgramador\\Api\\WebApiJovemProgramador\\WebApplicationAlunos\\WebApplicationAlunos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fran\\Desktop\\ApiFrancine\\WebApplicationAlunos\\WebApplicationAlunos.csproj": {
+    "C:\\Users\\Fran\\Desktop\\WebApiJovemProgramador\\Api\\WebApiJovemProgramador\\WebApplicationAlunos\\WebApplicationAlunos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fran\\Desktop\\ApiFrancine\\WebApplicationAlunos\\WebApplicationAlunos.csproj",
+        "projectUniqueName": "C:\\Users\\Fran\\Desktop\\WebApiJovemProgramador\\Api\\WebApiJovemProgramador\\WebApplicationAlunos\\WebApplicationAlunos.csproj",
         "projectName": "WebApplicationAlunos",
-        "projectPath": "C:\\Users\\Fran\\Desktop\\ApiFrancine\\WebApplicationAlunos\\WebApplicationAlunos.csproj",
+        "projectPath": "C:\\Users\\Fran\\Desktop\\WebApiJovemProgramador\\Api\\WebApiJovemProgramador\\WebApplicationAlunos\\WebApplicationAlunos.csproj",
         "packagesPath": "C:\\Users\\Fran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fran\\Desktop\\ApiFrancine\\WebApplicationAlunos\\obj\\",
+        "outputPath": "C:\\Users\\Fran\\Desktop\\WebApiJovemProgramador\\Api\\WebApiJovemProgramador\\WebApplicationAlunos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fran\\AppData\\Roaming\\NuGet\\NuGet.Config",

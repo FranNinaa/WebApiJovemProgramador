@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "47CGr5uT43Vzx30ONAXjrWnvayUI6Z38Ms9h9zvROeS8kcejLevYwJcSw/Hs2tei1Wdk4Bn2EcibI9Lxy1xlgQ==",
+  "dgSpecHash": "ImPIXxAe/ebAgoJZSNd++20EGuKlvoGBH523/EeJN8NI9DYXLGEKYbcWAEYIPdWOOQDY66p6XBN2KTYwm0zgJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fran\\Desktop\\ApiFrancine\\WebApplicationAlunos\\WebApplicationAlunos.csproj",
+  "projectFilePath": "C:\\Users\\Fran\\Desktop\\WebApiJovemProgramador\\Api\\WebApiJovemProgramador\\WebApplicationAlunos\\WebApplicationAlunos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fran\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Fran\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
